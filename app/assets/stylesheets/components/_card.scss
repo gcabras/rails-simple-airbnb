@@ -1,0 +1,22 @@
+.flat-card {
+  width: 100%;
+  position: relative;
+  margin: .5rem 0 1rem 0;
+  background-color: #fff;
+}
+
+.flat-card-image {
+  height: 180px;
+  background-position: center;
+  background-size: cover;
+}
+
+.flat-card-content {
+  padding: 24px;
+  background-color: #F8F9FA;
+}
+
+.flat-card-actions {
+  position: relative;
+  padding: 16px 24px;
+}
